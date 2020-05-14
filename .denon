@@ -1,0 +1,12 @@
+{
+  "extensions": [
+    ".ts",
+    ".tsx"
+  ],
+  "deno_args": [
+    "--allow-net",
+    "--allow-read",
+    "--allow-env",
+    "--unstable"
+  ]
+}
